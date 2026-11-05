@@ -1,8 +1,13 @@
-##################################################
+
    SECURINETS ENIT  ::  OPERATION GIT QUEST
-##################################################
+
 objective: master version control, leave no trace
            (except beautiful commits)
+<<<<<<< HEAD
 codename: mihawk
+=======
+codename: REDACTED-BY-HQ
+>>>>>>> upstream/intel-update
 status:   STANDBY
-##################################################
+clearance: LEVEL-5
+
